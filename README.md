@@ -1,7 +1,8 @@
 # Avaliação Desenvolvedor
 Avaliação
 
-Copiar a pasta para sua area de trabalho e usar o Visual Studio 2013 para executar o projeto.
+Descompactar o conteudo do arquivo avalicao.rar em sua área de trabalho.
+Usar o Visual Studio 2013 para abrir e executar o projeto.
 Usar o arquivo dados.txt que está na pasta do projeto para testar a aplicação.
 
 
